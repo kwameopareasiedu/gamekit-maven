@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>dev.gamekit</groupId>
+  <artifactId>engine</artifactId>
+  <versioning>
+    <lastUpdated>20250315231531</lastUpdated>
+    <snapshot>
+      <timestamp>20250315.231531</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-20250315.231531-1</value>
+        <updated>20250315231531</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.0-20250315.231531-1</value>
+        <updated>20250315231531</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.1.0-SNAPSHOT</version>
+</metadata>
