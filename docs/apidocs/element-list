@@ -2,5 +2,6 @@ dev.gamekit.animation
 dev.gamekit.core
 dev.gamekit.ui
 dev.gamekit.ui.enums
+dev.gamekit.ui.events
 dev.gamekit.ui.widgets
 dev.gamekit.utils

@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.gamekit.animation"},{"l":"dev.gamekit.core"},{"l":"dev.gamekit.ui"},{"l":"dev.gamekit.ui.enums"},{"l":"dev.gamekit.ui.widgets"},{"l":"dev.gamekit.utils"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.gamekit.animation"},{"l":"dev.gamekit.core"},{"l":"dev.gamekit.ui"},{"l":"dev.gamekit.ui.enums"},{"l":"dev.gamekit.ui.events"},{"l":"dev.gamekit.ui.widgets"},{"l":"dev.gamekit.utils"}];updateSearchResults();
