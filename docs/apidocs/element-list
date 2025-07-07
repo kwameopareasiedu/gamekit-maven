@@ -2,6 +2,7 @@ dev.gamekit.animation
 dev.gamekit.audio
 dev.gamekit.audio.shapes
 dev.gamekit.core
+dev.gamekit.graphics
 dev.gamekit.settings
 dev.gamekit.ui
 dev.gamekit.ui.enums
